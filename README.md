@@ -13,4 +13,5 @@ This provides zipped JSON file of the Open English Wordnet in **JSON** format.
 Download [oewn-2024.json.zip](https://x-englishwordnet.github.io/json/oewn-2024.json.zip).
 Download [wn31.json.zip](https://x-englishwordnet.github.io/json/wn31.json.zip).
 
-These are the serializations of models performed by Kotlin serialization.
+These are the serialization (performed by Kotlin serialization libraries) outputs of WN31 and OEWN models.
+See [oewntk/model](https://github.com/oewntk/model)
